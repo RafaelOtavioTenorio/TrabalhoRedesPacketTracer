@@ -4,7 +4,7 @@ Conferir:
 1 - Conexão entre as unidades, os roteadores se comunicam entre si, mas um coputador em uma unidade não consegue acessar outro.
    -Após isso se conferir também o acesso a FTP de outras unidades e o DNS, já que não foi possivel de verificalos antes.
 
-2- Roteador Wireless, não está enviando o IP do DHCP para aparelhos conectados e está tendo algum problema na conexão pois as 
+(Consertado) 2- Roteador Wireless, não está enviando o IP do DHCP para aparelhos conectados e está tendo algum problema na conexão pois as 
 vezes aparelhos distantes se conectam mas aparelhos próximos não.
 
 3- Se der tempo, após integrar tudo é bom conferir tudo novamente para certificar que pegamos todas as falhas.
