@@ -3,6 +3,7 @@ Conferir:
 
 1 - Conexão entre as unidades, os roteadores se comunicam entre si, mas um coputador em uma unidade não consegue acessar outro.
    -Após isso se conferir também o acesso a FTP de outras unidades e o DNS, já que não foi possivel de verificalos antes.
+(Conexão entre os routers consertada *trocado para serial e configurado corretamente com as redes existentes*, problema de conexão atual se deve aos pcs em uma vlan não conseguirem conversar com a outra, os dados não passam pelos switchs 20, 16 e 19)
 
 (Consertado) 2- Roteador Wireless, não está enviando o IP do DHCP para aparelhos conectados e está tendo algum problema na conexão pois as 
 vezes aparelhos distantes se conectam mas aparelhos próximos não.
